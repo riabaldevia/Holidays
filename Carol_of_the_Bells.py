@@ -1,2 +1,2 @@
 import pyknon
-Bb5 AB5 Bb5 G4
+A = Bb5 Ab5 Bb5 G4
